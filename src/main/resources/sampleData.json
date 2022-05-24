@@ -1,0 +1,22 @@
+[
+    {
+        "place_id": 281687365,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 27017,
+        "boundingbox": [
+            "54.0086911",
+            "54.6469684",
+            "9.3042966",
+            "10.1991646"
+        ],
+        "lat": "54.3015523",
+        "lon": "9.7686088",
+        "display_name": "Rendsburg-Eckernförde, Schleswig-Holstein, Deutschland",
+        "place_rank": 12,
+        "category": "boundary",
+        "type": "administrative",
+        "importance": 0.7236269886680464,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons//poi_boundary_administrative.p.20.png"
+    }
+]
